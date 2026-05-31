@@ -1,0 +1,15 @@
+h1, h2, img {
+    text-align: center;
+}
+img {
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+    border-radius: 50%;
+}
+div {
+    background: cyan;
+}
+span {
+    background: yellow;
+}
